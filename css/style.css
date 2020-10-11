@@ -343,6 +343,9 @@ button:focus {
     color: #000;
 }
 
+.border{
+    border-width:3px !important;
+}
 
 /*==========================
         3.NAVBAR
