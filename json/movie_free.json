@@ -31,11 +31,11 @@
       },
       {
         "name": "ADMIN_INTERSTITIAL_FACEBOOK_ID",
-        "value": ""YOUR_PLACEMENT_ID""
+        "value": "2703176636427041_2708088335935871"
       },
       {
         "name": "ADMIN_INTERSTITIAL_TYPE",
-        "value": "FACEBOOK"
+        "value": "ADMOB"
       },
       {
         "name": "ADMIN_INTERSTITIAL_CLICKS",
@@ -47,15 +47,15 @@
       },
       {
         "name": "ADMIN_BANNER_FACEBOOK_ID",
-        "value": ""YOUR_PLACEMENT_ID""
+        "value": "2703176636427041_2703182186426486"
       },
       {
         "name": "ADMIN_BANNER_TYPE",
-        "value": "FACEBOOK"
+        "value": "ADMOB"
       },
       {
         "name": "ADMIN_NATIVE_FACEBOOK_ID",
-        "value": ""YOUR_PLACEMENT_ID""
+        "value": "2703176636427041_2705680412843330"
       },
       {
         "name": "ADMIN_NATIVE_ADMOB_ID",
@@ -67,7 +67,7 @@
       },
       {
         "name": "ADMIN_NATIVE_TYPE",
-        "value": "FACEBOOK"
+        "value": "ADMOB"
       }
     ],
     links: {
@@ -75,7 +75,7 @@
       tvEnVivoLink: "https://slidepeliscinema.blogspot.com/2020/06/tv-en-vivo.html",
       slidersLink:"https://slidepeliscinema.blogspot.com/2020/06/movie-free-slide.html",
       categorias: [
-
+          
         {
           title: "Estrenos",
           urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-estreno.html"
@@ -139,3 +139,23 @@
       ]
     }
   }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
