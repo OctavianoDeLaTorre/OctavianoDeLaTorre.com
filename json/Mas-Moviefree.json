@@ -1,0 +1,161 @@
+{
+    currentVersionName: "2.0",
+    forceUpdate: false,
+    text: "Existe una nueva version",
+    urlUpdate: "https://play.google.com/store/apps/details?id=com.ea.game.simcitymobile_row&hl=en", 
+    urlPrivacyPolicy:"http://colonmani-001-site3.1tempurl.com/jsons/privacy_policy_movie_free.html",
+    telegramGroupId:"EBo2kBNKwpp1CzaPYhumTw",
+    urlInstagram:"https://instagram.com/moviefree2021?igshid=172lzh1xqbzhf",
+    activarAnuncios: false, 
+    admob: {
+      id: "ca-app-pub-6181825621178553~9523178445",
+      banner: "ca-app-pub-6181825621178553/5424151337",
+      instertestial: "ca-app-pub-6181825621178553/8050314674"
+    },
+  "values": [
+      {
+        "name": "update",
+        "value": "App on update"
+      },
+      {
+        "name": "user",
+        "value": "200"
+      },
+      {
+        "name": "ADMIN_REWARDED_ADMOB_ID",
+        "value": "ca-app-pub-3940256099942544\/5224354917"
+      },
+      {
+        "name": "ADMIN_INTERSTITIAL_ADMOB_ID",
+        "value": "ca-app-pub-3940256099942544\/1033173712"
+      },
+      {
+        "name": "ADMIN_INTERSTITIAL_FACEBOOK_ID",
+        "value": "YOUR_PLACEMENT_ID"
+      },
+      {
+        "name": "ADMIN_INTERSTITIAL_TYPE",
+        "value": "FACEBOOK"
+      },
+      {
+        "name": "ADMIN_INTERSTITIAL_CLICKS",
+        "value": 4
+      },
+      {
+        "name": "ADMIN_BANNER_ADMOB_ID",
+        "value": "ca-app-pub-3940256099942544\/6300978111"
+      },
+      {
+        "name": "ADMIN_BANNER_FACEBOOK_ID",
+        "value": "YOUR_PLACEMENT_ID"
+      },
+      {
+        "name": "ADMIN_BANNER_TYPE",
+        "value": "FACEBOOK"
+      },
+      {
+        "name": "ADMIN_NATIVE_FACEBOOK_ID",
+        "value": "YOUR_PLACEMENT_ID"
+      },
+      {
+        "name": "ADMIN_NATIVE_ADMOB_ID",
+        "value": "ca-app-pub-3940256099942544\/2247696110"
+      },
+      {
+        "name": "ADMIN_NATIVE_LINES",
+        "value": 2
+      },
+      {
+        "name": "ADMIN_NATIVE_TYPE",
+        "value": "FACEBOOK"
+      }
+    ],
+    links: {
+      seriesLink: "https://free849.blogspot.com/2020/10/prueba-betiel.html",
+      tvEnVivoLink: "https://slidepeliscinema.blogspot.com/2020/06/tv-en-vivo.html",
+      slidersLink:"https://slidepeliscinema.blogspot.com/2020/06/movie-free-slide.html",
+      categorias: [
+          
+        {
+          title: "Estrenos",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-estreno.html"
+        },
+        {
+          title: "Thriller",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-thriller.html"
+        },
+        {
+          title: "Familiar",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-familiar.html"
+        },
+        {
+          title: "Animacion",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-animacion.html"
+        },
+        {
+          title: "Subtitulados",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-subtitulados.html"
+        },
+        {
+          title: "Documentales",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-documental.html"
+        },
+        {
+          title: "Cristianas",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-cristianas.html"
+        },
+        {
+          title: "Terror",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-terror.html"
+        },
+        {
+          title: "Romance",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-romance.html"
+        },
+        {
+          title: "Aventuras",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-aventuras.html"
+        },
+        {
+          title: "Drama",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-drama.html"
+        },
+        {
+          title: "Ciencia-Ficcion",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-ciencia-ficcion.html"
+        },
+        {
+          title: "Comedia",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-comedia.html"
+        },
+        {
+          title: "Accion",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-accion.html"
+        }, 
+        {
+          title: "Belico",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-belico.html"
+        }
+      ]
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
