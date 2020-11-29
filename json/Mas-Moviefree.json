@@ -76,10 +76,7 @@
       slidersLink:"https://slidepeliscinema.blogspot.com/2020/06/movie-free-slide.html",
       categorias: [
           
-        {
-          title: "Estrenos",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-estreno.html"
-        }
+      
       ]
     }
   }
