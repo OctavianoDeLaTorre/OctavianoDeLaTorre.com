@@ -79,62 +79,6 @@
         {
           title: "Estrenos",
           urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-estreno.html"
-        },
-        {
-          title: "Thriller",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-thriller.html"
-        },
-        {
-          title: "Familiar",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-familiar.html"
-        },
-        {
-          title: "Animacion",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-animacion.html"
-        },
-        {
-          title: "Subtitulados",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-subtitulados.html"
-        },
-        {
-          title: "Documentales",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-documental.html"
-        },
-        {
-          title: "Cristianas",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-cristianas.html"
-        },
-        {
-          title: "Terror",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-terror.html"
-        },
-        {
-          title: "Romance",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-romance.html"
-        },
-        {
-          title: "Aventuras",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-aventuras.html"
-        },
-        {
-          title: "Drama",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-drama.html"
-        },
-        {
-          title: "Ciencia-Ficcion",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-ciencia-ficcion.html"
-        },
-        {
-          title: "Comedia",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-comedia.html"
-        },
-        {
-          title: "Accion",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-accion.html"
-        }, 
-        {
-          title: "Belico",
-          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/06/categoria-de-belico.html"
         }
       ]
     }
