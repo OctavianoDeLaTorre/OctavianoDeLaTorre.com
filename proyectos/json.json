@@ -1,0 +1,93 @@
+{
+    currentVersionName: "1.4",
+    forceUpdate: false,
+    text: "Existe una nueva version",
+    urlUpdate: "https://play.google.com/store/apps/details?id=com.pelis.peliszone", 
+    activarAnuncios: true,
+    peliculasSinDerechos:{
+        activar:true,
+        mostrarBotonReproducir:true,
+        url:"https://appsprotector22.blogspot.com/2021/01/peliculas-sin-autor.html"
+    },
+    admob: {
+      id: "ca-app-pub-1592896565437791~4689169720",
+      banner: "ca-app-pub-1592896565437791/9558353023",
+      instertestial: "ca-app-pub-1592896565437791/1251459921"
+    },
+    links: {
+      seriesLink: "https://free849.blogspot.com/2020/10/multimedia-porti-series-ngen.html",
+      tvEnVivoLink: "https://slidepeliscinema.blogspot.com/2020/06/tv-en-vivo.html",
+      categorias: [
+          
+        {
+          title: "Estrenos",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Thriller",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Crimen",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Familiar",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Animacion",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Subtitulados",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Documentales",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Cristianas",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Terror",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Romance",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Aventuras",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Drama",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Ciencia-Ficcion",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Comedia",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Accion",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Musical",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        },
+        {
+          title: "Belico",
+          urlCategoria: "https://slidepeliscinema.blogspot.com/2020/12/categoria-pruebas.html"
+        }
+      ]
+    }
+  }
+  
