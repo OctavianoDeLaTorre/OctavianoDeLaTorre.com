@@ -5,14 +5,9 @@
     urlUpdate: "https://play.google.com/store/apps/details?id=com.pelis.peliszone", 
     activarAnuncios: true,
     peliculasSinDerechos:{
-        activar:true,
+        activar:false,
         mostrarBotonReproducir:false,
         url:"https://appsprotector22.blogspot.com/2021/01/peliculas-sin-autor.html"
-    },
-    admob: {
-      id: "ca-app-pub-1592896565437791~4689169720",
-      banner: "ca-app-pub-1592896565437791/9558353023",
-      instertestial: "ca-app-pub-1592896565437791/1251459921"
     },
     links: {
       seriesLink: "https://free849.blogspot.com/2020/10/multimedia-porti-series-ngen.html",
