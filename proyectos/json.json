@@ -6,7 +6,7 @@
     activarAnuncios: true,
     peliculasSinDerechos:{
         activar:true,
-        mostrarBotonReproducir:true,
+        mostrarBotonReproducir:false,
         url:"https://appsprotector22.blogspot.com/2021/01/peliculas-sin-autor.html"
     },
     admob: {
