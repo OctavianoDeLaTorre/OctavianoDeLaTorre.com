@@ -4,6 +4,11 @@
     text: "Existe una nueva version",
     urlUpdate: "https://play.google.com/store/apps/details?id=com.pelis.peliszone", 
     activarAnuncios: true,
+    admob:{
+      id:"",
+      banner:"ca-app-pub-3940256099942544/6300978111",
+      instertestial:"ca-app-pub-3940256099942544/1033173712"
+    },
     peliculasSinDerechos:{
         activar:false,
         mostrarBotonReproducir:false,
