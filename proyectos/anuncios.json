@@ -1,7 +1,7 @@
 {
     AdMob:{
         activar_anuncios:"true",
-        interstitial:"ca-app-pub-2837712781081847/9880384599",
+        interstitial:"ca-app-pub-3940256099942544/1033173712",
         rewardes_adMob:"ca-app-pub-2837712781081847/1583124963",
         banner:"ca-app-pub-2837712781081847/5638705492"
     }
