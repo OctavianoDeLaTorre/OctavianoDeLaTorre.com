@@ -1,13 +1,13 @@
 {
    "currentVersionName":"1.1.1",
    "forceUpdate":true,
-   "admob"{
+   "admob":{
        "activarAnuncios":true
    },
-   "facebook"{
+   "facebook":{
        "activarAnuncios":true
    },
-   "peliculasSinDerechos"{
+   "peliculasSinDerechos":{
        "activar":false,
        "mostrarBotonReproducir":true,
        "url":"https://prohome20581586247.blogspot.com/2021/03/sin-derecho-de-autor.html"
