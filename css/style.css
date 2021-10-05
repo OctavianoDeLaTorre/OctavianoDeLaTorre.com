@@ -1441,4 +1441,21 @@ button:focus {
     .blog_detail p.blockquote {
         font-size: 14px !important;
     }
+    .whatsapp {
+        position:fixed;
+        width:60px;
+        height:60px;
+        bottom:40px;
+        right:20px;
+        background-color:#25d366;
+        color:#FFF;
+        border-radius:50px;
+        text-align:center;
+        font-size:30px;
+        z-index:140;
+      }
+    
+      .whatsapp-icon {
+        margin-top:13px;
+      }
 }
