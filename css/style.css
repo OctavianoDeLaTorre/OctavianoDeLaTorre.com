@@ -1,13 +1,3 @@
-/*
-------------------------------------------------------------------------
-* Template Name    : Elvish | Responsive Bootstrap 4 Personal Template * 
-* Author           : ThemesBoss                                        *
-* Version          : 1.0.0                                             *
-* Created          : May 2018                                        *
-* File Description : Main Css file of the template                     *
-*-----------------------------------------------------------------------
-*/
-
 
 /***********************
     1.BASIC           
@@ -1445,7 +1435,7 @@ button:focus {
         position:fixed;
         width:60px;
         height:60px;
-        bottom:40px;
+        bottom:25px;
         right:20px;
         background-color:#25d366;
         color:#FFF;
@@ -1453,6 +1443,8 @@ button:focus {
         text-align:center;
         font-size:30px;
         z-index:140;
+        display: none;
+        transition: all 0.5s;
       }
     
       .whatsapp-icon {

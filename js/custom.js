@@ -1,12 +1,4 @@
-/*
-------------------------------------------------------------------------
-* Template Name    : Elvish | Responsive Bootstrap 4 Personal Template * 
-* Author           : ThemesBoss                                        *
-* Version          : 1.0.0                                             *
-* Created          : May 2018                                          *
-* File Description : Main Js file of the template                      *
-*-----------------------------------------------------------------------
-*/
+
 
 ! function($) {
     "use strict";
@@ -168,6 +160,17 @@
             $("html, body").animate({ scrollTop: 0 }, 1000);
             return false;
         });
+    },
+
+    //WhatssApp
+    ElvishApp.prototype.initBackToTop = function() {
+        $(window).on('scroll',function(){
+            if ($(this).scrollTop() > 100) {
+                $('.whatsapp').fadeIn();
+            } else {
+                $('.whatsapp').fadeOut();
+            }
+        }); 
     },
 
     //Typed Text
