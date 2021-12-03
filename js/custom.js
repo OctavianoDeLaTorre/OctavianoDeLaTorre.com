@@ -162,16 +162,6 @@
         });
     },
 
-    //WhatssApp
-    ElvishApp.prototype.initBackToTop = function() {
-        $(window).on('scroll',function(){
-            if ($(this).scrollTop() > 100) {
-                $('.whatsapp').fadeIn();
-            } else {
-                $('.whatsapp').fadeOut();
-            }
-        }); 
-    },
 
     //Typed Text
     ElvishApp.prototype.initTypedText = function() {
